@@ -1,0 +1,7 @@
+在CSDN上看到大佬的代码，但是不理解为什么当我加密的字节过长时程序不能正常运行
+
+会在文件末尾出现乱码，猜测是空字符与密码的按位异或效果
+
+encryption程序可读取输入的文件名并加密为encryption_test文件
+
+decryption程序可把encryption_test解密还原为decryption_test文件
