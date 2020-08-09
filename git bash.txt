@@ -1,0 +1,14 @@
+文件上传
+git add -A，提交所有变化
+$ git commit -m "修改注释"
+$ git push 名称 分支
+（git push origin master）
+
+文件下拉
+$ git pull 仓库名称
+
+文件克隆
+git clone 地址（不是自己的记得选HTTPS）
+
+Ctrl+ins  复制   （ins 键盘右上角的Insert）
+Shift+ins 粘贴   
