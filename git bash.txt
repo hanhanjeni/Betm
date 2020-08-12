@@ -13,3 +13,4 @@ git clone 地址（不是自己的记得选HTTPS）
 Ctrl+ins  复制   （ins 键盘右上角的Insert）
 Shift+ins 粘贴   
 
+在github.com后面添加.cnpmjs.org
